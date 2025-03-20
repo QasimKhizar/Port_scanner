@@ -23,5 +23,3 @@ if ',' in targets:
         scan(ip_addr.strip(' '), ports)
 else:
     scan(targets,ports)
-
-print("i made my first git commit yehhhh")
